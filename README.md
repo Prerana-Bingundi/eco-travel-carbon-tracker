@@ -84,9 +84,7 @@ This dashboard helps users:
 
 ## 👩‍💻 Authors
 
-*  
-
-  Prerana Bingundi
+*  Prerana Bingundi
 
     
 * Nerita Kalshetti
